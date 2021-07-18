@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "I am doctoral candidate at the University of Oxford specialising in social stratification, mobility and computational social science."
+title: "About me"
+excerpt: "I am a doctoral candidate at the University of Oxford specialising in social stratification, mobility and computational social science."
 author_profile: true
 redirect_from: 
   - /about/
