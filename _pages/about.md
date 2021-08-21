@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the University of Oxford specialising in the sociology of education, social stratification, educational inequality, and political economy of development. My research is primarily concenred about drawing 
+I am a doctoral candidate at Nuffield College, University of Oxford. I specialise in social and educational inequalities, gender disparity, cross-border policy diffusion, political economy of development, and mental health.\
+While my research primarily focuses on low- and middle-income countries, I have also experience conducting research on the UK and US.
 
 Research
 ======
