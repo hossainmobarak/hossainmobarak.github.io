@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the University of Oxford specialising in sociology of education, social stratification, educational inequality, and political economy of development.
+I am a doctoral candidate at the University of Oxford specialising in the sociology of education, social stratification, educational inequality, and political economy of development. My research is primarily concenred about drawing \
+evidence
 
 Research
 ======
