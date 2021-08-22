@@ -1,15 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "The Linkage between School Autonomy and Inequality in Achievement in 69 Countries: Does Development Level Matter?"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /under-review/under-review2
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+***Abstract***\
+Whether schooling systems with greater autonomy offset or reinforce educational inequalities remains debatable. Yet school autonomy is often advocated by different actors including donors and international organizations in many countries. This study examines the association between school autonomy and the inequality in math achievement of 15-year-olds by socioeconomic status (SES), and whether the ‘effect’ differs by countries’ level of development. We construct a country-level panel using six waves of Program for International Student Assessment (PISA) from 69 countries in 322 country-waves. We first estimate the gradients of SES and math achievement and country-mean of covariates including school autonomy. Results from pooled weighted mixed-effects models suggest that the association between all autonomy variables and inequality in achievement is not significant. However, we find that the ‘effect’ of academic autonomy on increasing achievement inequality is greater in high- and upper-middle-income countries compared to low- and lower-middle-income countries. But the coefficients for budget and personnel autonomy do not differ by the development level. The results remain similar in several specification tests including country fixed effects, which suggests not to simplistically apply autonomy reforms regardless of contexts.\
