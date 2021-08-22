@@ -10,14 +10,13 @@ redirect_from:
 
 I am a doctoral candidate at [Nuffield College](https://www.nuffield.ox.ac.uk/), University of Oxford. I specialise in social and educational inequalities, gender disparity, cross-border policy diffusion, the political economy of development, and mental health. While my research primarily focuses on low- and middle-income countries, I have also experience conducting research on the UK and US. Besides, my regional expertise includes South Asia and sub-Saharan Africa. 
 
-Research
+Publications
 ======
-Hossain, Mobarak. (2021). &quot;Does Greater Community Involvement Mean More Parent-Teacher Interaction? Evidence from Seven Developing Countries.&quot; <i>International Journal of Educational Development, 83</i>, 102378.[]https://doi.org/10.1016/j.ijedudev.2021.102378
+Hossain, Mobarak. (2021). &quot;Does Greater Community Involvement Mean More Parent-Teacher Interaction? Evidence from Seven Developing Countries.&quot; <i>International Journal of Educational Development, 83</i>, 102378. [https://doi.org/10.1016/j.ijedudev.2021.102378](https://doi.org/10.1016/j.ijedudev.2021.102378)
+Hossain, Mobarak. (2021). &quot;Gender Differences in Experiencing Coronavirus-Triggered Economic Hardship: Evidence from Four Developing Countries.&quot; <i>Research in Social Stratification and Mobility, 71</i>, 100555. [https://doi.org/10.1016/j.rssm.2020.100555](https://doi.org/10.1016/j.rssm.2020.100555)
+Hossain, Mobarak. (2021). &quot;Unequal Experience of COVID-Induced Remote Schooling in Four Developing Countries.&quot; <i>International Journal of Educational Development, 85</i>, 102446. [https://doi.org/10.1016/j.ijedudev.2021.102446 ](https://doi.org/10.1016/j.ijedudev.2021.102446 )
 
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Under review
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
