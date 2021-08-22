@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Under review"
-    url: /ur/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Work in-progress"
     url: /wip/
