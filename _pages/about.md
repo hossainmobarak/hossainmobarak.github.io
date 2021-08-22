@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at Nuffield College, University of Oxford. I specialise in social and educational inequalities, gender disparity, cross-border policy diffusion, political economy of development, and mental health. While my research primarily focuses on low- and middle-income countries, I have also experience conducting research on the UK and US.
+I am a doctoral candidate at [Nuffield College](https://www.nuffield.ox.ac.uk/), University of Oxford. I specialise in social and educational inequalities, gender disparity, cross-border policy diffusion, the political economy of development, and mental health. While my research primarily focuses on low- and middle-income countries, I have also experience conducting research on the UK and US.
 
 Research
 ======
