@@ -173,10 +173,10 @@ kramdown:
 
 # Collections
 collections:
-  under_review:
+  _under_review:
     output: true
     permalink: /:collection/:path/
-  Work_in_progress:
+  _Work_in_progress:
     output: true
     permalink: /:collection/:path/
 
