@@ -17,8 +17,3 @@ Hossain, Mobarak. (2021). &quot;Does Greater Community Involvement Mean More Par
 Hossain, Mobarak. (2021). &quot;Gender Differences in Experiencing Coronavirus-Triggered Economic Hardship: Evidence from Four Developing Countries.&quot; <i>Research in Social Stratification and Mobility, 71</i>, 100555. [https://doi.org/10.1016/j.rssm.2020.100555](https://doi.org/10.1016/j.rssm.2020.100555)\
 \
 Hossain, Mobarak. (2021). &quot;Unequal Experience of COVID-Induced Remote Schooling in Four Developing Countries.&quot; <i>International Journal of Educational Development, 85</i>, 102446. [https://doi.org/10.1016/j.ijedudev.2021.102446 ](https://doi.org/10.1016/j.ijedudev.2021.102446)
-
-
-Under review
-======
-[Diffusing De-standardisation Reforms Across Educational Systems in Low- and Middle-Income Countries: The Case of the World Bank, 1965-2020.](https://hossainmobarak.github.io/under-review/under-review1)
